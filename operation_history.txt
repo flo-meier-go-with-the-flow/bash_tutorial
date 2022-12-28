@@ -1,0 +1,8 @@
+Welcome to the basic calculator!
+Enter an arithmetic operation or type 'quit' to quit:
+66 + 89
+155
+Enter an arithmetic operation or type 'quit' to quit:
+156252
+Enter an arithmetic operation or type 'quit' to quit:
+Goodbye!
